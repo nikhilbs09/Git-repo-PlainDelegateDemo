@@ -1,0 +1,7 @@
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\bin\Debug\PlainDelegateDemo.exe.config
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\bin\Debug\PlainDelegateDemo.exe
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\bin\Debug\PlainDelegateDemo.pdb
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\obj\Debug\PlainDelegateDemo.csprojResolveAssemblyReference.cache
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\obj\Debug\PlainDelegateDemo.csproj.CoreCompileInputs.cache
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\obj\Debug\PlainDelegateDemo.exe
+E:\Git-repo\PlainDelegateDemo\PlainDelegateDemo\PlainDelegateDemo\obj\Debug\PlainDelegateDemo.pdb
